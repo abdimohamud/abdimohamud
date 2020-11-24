@@ -8,16 +8,7 @@ My name is  Abdi, I'm a Developer from the Pacific NorthWest. I love building fr
 <div align="center">
 <img src="https://abdimohamud.codes/images/avi.svg" align="center" height="" width="" />
 </div>  
-  
-
-
-## :mailbox: How to reach me : 
-<div align="center"> 
-[<<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/mailbox-closed-flag-up.png"/>](mailto:mohamud.abdinajib@outlook.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/abdinajib-mohamud/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://www.twitter.com/nopocketchange/)
-</div>
-
+ 
 ----
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -28,12 +19,20 @@ My name is  Abdi, I'm a Developer from the Pacific NorthWest. I love building fr
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 </div>
-<br />
-----
+<br /> 
+
+
+## :mailbox: How to reach me : 
+
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/mailbox-closed-flag-up.png"/>](mailto:mohamud.abdinajib@outlook.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/abdinajib-mohamud/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://www.twitter.com/nopocketchange/)
 
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdimohamud&layout=compact)][github]
+
+
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdimohamud&layout=compact)
 
 ----
 
@@ -55,8 +54,6 @@ https://github.com/abdimohamud/React-Plants
 </p>
 </details>
 
-<details><summary>Trinkets Shop</summary>
-<p>
 
 
 <details><summary>Car Sales</summary>
