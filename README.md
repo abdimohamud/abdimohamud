@@ -109,7 +109,7 @@ This is an Angular application that uses Angular Forms / TypeScript that display
 ![Alt Text](https://abdimohamud.codes/images/budget-calculator.gif)
 
 ## Demo Link
- https://budget-calculator-git-main.abdimohamud.vercel.app/
+ https://ang-budget-calculator.vercel.app/
 ## Repo Link
 https://github.com/abdimohamud/Budget-Calculator
 
