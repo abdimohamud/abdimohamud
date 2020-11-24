@@ -22,19 +22,17 @@ My name is  Abdi, I'm a Developer from the Pacific NorthWest. I love building fr
 <br /> 
 
 
-## <div align="center"> :mailbox: How to reach me : 
-
-
- [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/mailbox-closed-flag-up.png" align="center"/>](mailto:mohamud.abdinajib@outlook.com)
+## :mailbox: How to reach me : 
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/mailbox-closed-flag-up.png" align="center"/>](mailto:mohamud.abdinajib@outlook.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" align="center"/>](https://www.linkedin.com/in/abdinajib-mohamud/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png" align="center"/>](https://www.twitter.com/nopocketchange/)
 
 
 
 
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdimohamud&layout=compact" />
- </div>
+
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdimohamud&layout=compact" align="right />
+
 
 
 ----
