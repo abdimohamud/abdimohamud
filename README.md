@@ -31,7 +31,7 @@ My name is  Abdi, I'm a Developer from the Pacific NorthWest. I love building fr
 
 
 
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdimohamud&layout=compact" align="right />
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdimohamud&layout=compact" align="right" />
 
 
 
