@@ -12,11 +12,11 @@ My name is  Abdi, I'm a Developer from the Pacific NorthWest. I love building fr
 
 
 ## :mailbox: How to reach me : 
-
+<div align="center"> 
 [<<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/mailbox-closed-flag-up.png"/>](mailto:mohamud.abdinajib@outlook.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/abdinajib-mohamud/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://www.twitter.com/nopocketchange/)
-
+</div>
 
 ----
 <div align="center">  
@@ -41,8 +41,6 @@ My name is  Abdi, I'm a Developer from the Pacific NorthWest. I love building fr
 
 <details><summary>React Plants</summary>
 <p>
-
-
 
 #  React Plants 🌿
 
@@ -120,32 +118,23 @@ https://github.com/abdimohamud/Budget-Calculator
 
 </p>
 </details>
-
 <details><summary>Price Comparison</summary>
 <p>
 
 # Price-Comparison
 An HTML/CSS/SVG layout of 3 different product plans that have animations as well
-
-
 ![](https://abdimohamud.codes/images/price-comparison.gif)
-
 ## Demo Link:
 https://price-comparison-chart.netlify.app/
 ## Repo Link
 https://github.com/abdimohamud/Price-Comparision
 </p>
 </details>
-
 <details><summary>Property Listings</summary>
 <p>
- 
  # Property Listings
-
 This is an React JS application that displays private properties listed for sale in the United Kingdom with the ability to sort the listings by price, postcode, and order of pricing. The user is able to browse through the listing, read the description, and also see a Google Image street view of the precise location..
-
 ![](https://abdimohamud.codes/images/property-listings.gif)
-
 ## Demo Link
  https://property-listings.vercel.app/
 ## Repo Link
