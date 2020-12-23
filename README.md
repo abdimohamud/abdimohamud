@@ -84,7 +84,7 @@ https://github.com/abdimohamud/Car-Sales
 
 This application fetches data from a json server, allowing the user to add items to a shopping cart, modify the cart, checkout with a form, and recieve a success message on submit with their order. The user can also add and remove items from the shop.
 
-<img src="assets/trinkets.gif?raw=true" width="100%">
+<img src="assets/trinkets-shop.gif?raw=true" width="100%">
 
 ## Demo Link
  https://trinketshop.netlify.app/
@@ -136,7 +136,7 @@ https://github.com/abdimohamud/Price-Comparision
 # Property Listings
 This is an React JS application that displays private properties listed for sale in the United Kingdom with the ability to sort the listings by price, postcode, and order of pricing. The user is able to browse through the listing, read the description, and also see a Google Image street view of the precise location..
 
-<img src="assets/property-listings.gif?raw=true" width"100%">
+<img src="assets/property-listings.gif?raw=true" width="100%">
 ## Demo Link
  https://property-listings.vercel.app/
 ## Repo Link
