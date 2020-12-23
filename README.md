@@ -84,7 +84,7 @@ https://github.com/abdimohamud/Car-Sales
 
 This application fetches data from a json server, allowing the user to add items to a shopping cart, modify the cart, checkout with a form, and recieve a success message on submit with their order. The user can also add and remove items from the shop.
 
-![Alt Text](https://abdimohamud.codes/images/trinkets.gif)
+<img src="assets/trinkets.gif?raw=true" width="100%">
 
 ## Demo Link
  https://trinketshop.netlify.app/
@@ -106,7 +106,7 @@ https://github.com/abdimohamud/trinkets-shopping-cart
 
 This is an Angular application that uses Angular Forms / TypeScript that displays dialogs (modals) and component interaction with the users input along with a designed User Interface. The user can create, update, and remove ammounts from expenses and income with the total displaying at the top.
 
-![Alt Text](https://abdimohamud.codes/images/budget-calculator.gif)
+![Alt Text](assets/budget-calculator.gif)
 
 ## Demo Link
  https://ang-budget-calculator.vercel.app/
@@ -121,26 +121,42 @@ https://github.com/abdimohamud/Budget-Calculator
 
 # Price-Comparison
 An HTML/CSS/SVG layout of 3 different product plans that have animations as well
-![](https://abdimohamud.codes/images/price-comparison.gif)
+![](assets/price-comparison.gif)
 ## Demo Link:
 https://price-comparison-chart.netlify.app/
 ## Repo Link
 https://github.com/abdimohamud/Price-Comparision
 </p>
 </details>
+
 <details><summary>Property Listings</summary>
 <p>
- # Property Listings
+ 
+ 
+# Property Listings
 This is an React JS application that displays private properties listed for sale in the United Kingdom with the ability to sort the listings by price, postcode, and order of pricing. The user is able to browse through the listing, read the description, and also see a Google Image street view of the precise location..
-![](https://abdimohamud.codes/images/property-listings.gif)
+
+<img src="assets/property-listings.gif?raw=true" width"100%">
 ## Demo Link
  https://property-listings.vercel.app/
 ## Repo Link
 https://github.com/abdimohamud/Property-Listings 
  </p>
 </details>
+<details><summary>Github Jobs</summary>
+<p>
+
+#  Github Jobs 
+
+A Next.js application page that fetches recent job postings provided from Githubs official jobs api that have animations and is styledwith CSS and SCSS. Users are able filter job opening by search, location, and wheter or not the job is full time only. Seperate route included with of more information about a postion and where to apply on clicking on a posting.
 
 
+<img src="assets/github-jobs.gif?raw=true" width="100%">
+
+## Demo Link
+http://github-jobs-app-git-main.abdimohamud.vercel.app/
+ </p>
+</details>
 
 <!--
 **abdimohamud/abdimohamud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
