@@ -6,7 +6,7 @@ My name is  Abdi, I'm a Developer from the Pacific NorthWest. I love building fr
   
 
 <div align="center">
-<img src="https:/https://www.abdimohamud.works/images/avi.svg" align="center" height="" width="" />
+<img src="https://www.abdimohamud.works/images/avi.svg" align="center" height="" width="" />
 </div>  
  
 ----
